@@ -1,6 +1,6 @@
 ### EX5 Information Retrieval Using Boolean Model in Python
 ### DATE: 26-09-25
-### NAME: JYOSHANA S R
+### NAME: JYOTSHANA S R
 ### Reg.no: 212224230111
 ### AIM: To implement Information Retrieval Using Boolean Model in Python.
 ### Description:
